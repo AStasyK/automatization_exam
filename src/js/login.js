@@ -14,7 +14,7 @@ $(function(){
             "last_name": "Петров",
             "middle_name": "Валерьевич",
             "main_email": null,
-            "icon_profile":"img/val.jpg",
+            "icon_profile":null,
             "structure":[
                 {
                     "type": "студент",
