@@ -1,0 +1,11 @@
+node_modules/
+bower_components
+.DS_Store
+Thumbs.db
+lib
+.sass-cache
+desktop.ini
+logs
+*.log
+npm-debug.log*
+src/
